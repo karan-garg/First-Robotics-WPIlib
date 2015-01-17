@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wdfrgthjkl
+=======
+ASDGHJK
+>>>>>>> origin/master
