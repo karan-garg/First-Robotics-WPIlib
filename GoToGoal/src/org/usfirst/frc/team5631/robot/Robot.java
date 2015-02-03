@@ -46,6 +46,9 @@ public class Robot extends IterativeRobot {
 
 		gyro = new Gyro(1); // analog channel 1
 		gyro.reset();
+		
+		PositionUpdate posUpdate = new PositionUpdate(this);
+        posUpdate.start();
 		// posUpdate();
 	}
 
