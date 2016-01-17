@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 package org.usfirst.frc.team5631.robot;
 
@@ -79,6 +80,8 @@ public class Robot extends IterativeRobot {
         LiveWindow.run();
     }
 =======
+=======
+>>>>>>> 5bffbde8067992cf9ff8b9fbafa814ee8d46f06c
 package org.usfirst.frc.team5631.robot;
 
 import edu.wpi.first.wpilibj.CounterBase.EncodingType;
@@ -225,5 +228,8 @@ public class Robot extends IterativeRobot {
 		// myRobot.drive(0.0, 0.0); // stop robot
 
 	}
+<<<<<<< HEAD
+>>>>>>> 5bffbde8067992cf9ff8b9fbafa814ee8d46f06c
+=======
 >>>>>>> 5bffbde8067992cf9ff8b9fbafa814ee8d46f06c
 }
