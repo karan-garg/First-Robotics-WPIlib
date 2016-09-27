@@ -2,7 +2,7 @@
 First Robotics Competition 2015.
 Team 5631 - SpartanDroids.
 
-<img src="https://dl.dropbox.com/s/5njg8rwodhyzicb/giphy.gif?dl=0"  width="800" height="400">
+<img src="giphy.gif"  width="800" height="400">
 <br>
 
 <img src="https://dl.dropbox.com/s/ev86qigvq0c7sep/10991359_664281583681674_2277759142921063081_n.jpg?dl=0"  width="300" height="500">
